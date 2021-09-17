@@ -1,4 +1,5 @@
 # Satellite_tracking_Orbit_simulation_in_LEO
+Orbit simulation for formation flying in LEO
 Matlab codes for Master project at the university of Bremen, department of Communications engineering. 
 
 Main contributions in this project are summarized as follows:
