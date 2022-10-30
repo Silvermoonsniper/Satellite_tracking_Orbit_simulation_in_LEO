@@ -1,8 +1,8 @@
 
 # Project: **Orbit simulation for formation flying in LEO**.<br/>
-Matlab codes for Master project at the university of Bremen, department of Communications engineering. <br/>
-
-Main contributions in this project are summarized as follows:<br/>
+Matlab codes and thesis for Master project at the university of Bremen, department of Communications engineering. <br/>
+The basic introduction and partial research results and demonstrations are given here.
+Main research goals in this project are summarized as follows:<br/>
            1. Design a satellite orbit propagator in low earth orbit to simulate satellite motion with assistance of orbital elements <br/>
            2. Satellite motion simulation and transform on different frames. ECI frame, ECEF and LVLH frame.<br/>
            3. Satellite relative motion dynamics with HCW equations<br/>
