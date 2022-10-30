@@ -17,7 +17,7 @@ The illustration of a Deputy Chief satellite network on LVLH(Local vertical loca
   <img src="https://user-images.githubusercontent.com/89796179/198900189-8cae08c1-619d-460c-87fe-bf5344676705.png"
 " width="400" />
   </p> 
-The HCW equation for inter-satellite motion dynamics.
+The HCW equation for inter-satellite motion dynamics:
 <p align="center">
   <img src="https://user-images.githubusercontent.com/89796179/198900413-94bc1ef8-395e-47c6-b3e6-27babf01fdcb.png"
 " width="400" />
