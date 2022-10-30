@@ -14,6 +14,6 @@ Main contributions in this project are summarized as follows:<br/>
 The illustration of a Deputy Chief satellite network
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/89796179/198900189-8cae08c1-619d-460c-87fe-bf5344676705.png
+  <img src="https://user-images.githubusercontent.com/89796179/198900189-8cae08c1-619d-460c-87fe-bf5344676705.png"
 " width="400" />
   </p> 
