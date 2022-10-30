@@ -24,12 +24,7 @@ The HCW equation for inter-satellite motion dynamics:
   </p> 
 
 
-Kalman filter for estimation of velocity and position of deputy satellite with respect to chief satellite.
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/89796179/198900780-3ece325b-9838-4714-9403-0632797d8a23.png"
-" width="400" />
-  </p> 
  Algorithm structure of Kalman filter to recursively estimate state of dynamic system for linear system.            
 <p align="center">
   <img src="https://user-images.githubusercontent.com/89796179/198900943-f9cbc68c-d451-4304-90a6-686ff666f8a1.png"
@@ -43,4 +38,10 @@ System dynamics model and discrete system state update which are derived from HC
 <p align="center">
   <img src="https://user-images.githubusercontent.com/89796179/198900946-a675ed79-784e-4c9e-93a4-09d20aeac70a.png"
 " width="400" />
+  </p> 
+Kalman filter for estimation of velocity and position of deputy satellite with respect to chief satellite.
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/89796179/198900780-3ece325b-9838-4714-9403-0632797d8a23.png"
+" width="800" />
   </p> 
