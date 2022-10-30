@@ -11,7 +11,7 @@ Main contributions in this project are summarized as follows:<br/>
            6. Extended Kalman filter implementation based on these modified HCW equation and sensor measurements for satellite position and velocity estimation  under above mentioned perturbations<br/>
 
 <br/>
-The illustration of a Deputy Chief satellite network
+The illustration of a Deputy Chief satellite network on LVLH(Local vertical local horizontal) frame  
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/89796179/198900189-8cae08c1-619d-460c-87fe-bf5344676705.png"
