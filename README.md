@@ -22,3 +22,7 @@ The HCW equation for inter-satellite motion dynamics:
   <img src="https://user-images.githubusercontent.com/89796179/198900413-94bc1ef8-395e-47c6-b3e6-27babf01fdcb.png"
 " width="400" />
   </p> 
+
+
+Kalman filter for estimation of velocity and position of deputy satellite with respect to chief satellite.
+
