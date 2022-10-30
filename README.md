@@ -30,11 +30,12 @@ Kalman filter for estimation of velocity and position of deputy satellite with r
   <img src="https://user-images.githubusercontent.com/89796179/198900780-3ece325b-9838-4714-9403-0632797d8a23.png"
 " width="400" />
   </p> 
+ Algorithm structure of Kalman filter to recursively estimate state of dynamic system for linear system.            
 <p align="center">
   <img src="https://user-images.githubusercontent.com/89796179/198900943-f9cbc68c-d451-4304-90a6-686ff666f8a1.png"
  " width="400" />
 </p> 
-
+System dynamics model and discrete system state update which are derived from HCW equation for position and velocity estimation on LVLH frame for deputy satellite
 <p align="center">
   <img src="https://user-images.githubusercontent.com/89796179/198900944-2bcf9db7-d48b-49b0-aede-b15fe2409aaf.png"
 " width="400" />
