@@ -47,3 +47,4 @@ Kalman filter for estimation of velocity and position of deputy satellite with r
   <img src="https://user-images.githubusercontent.com/89796179/198900780-3ece325b-9838-4714-9403-0632797d8a23.png"
 " width="800" />
   </p> 
+This sentence uses `$` delimiters to show math inline:  $\sqrt{3x-1}+(1+x)^2$
