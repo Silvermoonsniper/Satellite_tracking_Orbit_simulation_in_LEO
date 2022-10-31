@@ -41,7 +41,7 @@ System dynamics model and discrete system state update which are derived from HC
   <img src="https://user-images.githubusercontent.com/89796179/198900946-a675ed79-784e-4c9e-93a4-09d20aeac70a.png"
 " width="400" />
   </p> 
-Kalman filter for estimation of velocity and position of deputy satellite with respect to chief satellite. The estimation performance is evaluated with different level of measurement noise variance ($ \sigma_w^2$). 
+Kalman filter for estimation of velocity and position of deputy satellite with respect to chief satellite. The estimation performance is evaluated with different level of measurement noise variance ($ \Sigma_w^2$). 
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/89796179/198900780-3ece325b-9838-4714-9403-0632797d8a23.png"
