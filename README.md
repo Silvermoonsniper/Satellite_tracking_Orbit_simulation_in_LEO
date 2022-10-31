@@ -13,7 +13,7 @@ Main research goals in this project are summarized as follows:<br/>
            6. Extended Kalman filter implementation based on these modified HCW equation and sensor measurements for satellite position and velocity estimation  under above mentioned perturbations<br/>
 
 <br/>
-The illustration of a Deputy Chief satellite network on LVLH(Local vertical local horizontal) frame  
+The illustration of a Deputy- Chief satellite network on LVLH(Local vertical local horizontal) frame  
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/89796179/198900189-8cae08c1-619d-460c-87fe-bf5344676705.png"
@@ -41,7 +41,7 @@ System dynamics model and discrete system state update which are derived from HC
   <img src="https://user-images.githubusercontent.com/89796179/198900946-a675ed79-784e-4c9e-93a4-09d20aeac70a.png"
 " width="400" />
   </p> 
-Kalman filter for estimation of velocity and position of deputy satellite with respect to chief satellite.
+Kalman filter for estimation of velocity and position of deputy satellite with respect to chief satellite. The estimation performance is evaluated with different level of process noise
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/89796179/198900780-3ece325b-9838-4714-9403-0632797d8a23.png"
